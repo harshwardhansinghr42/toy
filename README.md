@@ -13,4 +13,6 @@ Things you may want to cover:
 
 * Inputs are read from files present in inputs folder
 
+* Change directory to root folder toy/ and run ruby script from console: ruby main.rb
+
 # Caravan-Rails-Backend
